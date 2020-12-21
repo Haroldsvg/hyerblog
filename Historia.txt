@@ -11,5 +11,11 @@ Master 2
 =======
 Experimento 1
 
+<<<<<<< HEAD
 Master 1
 >>>>>>> 1eb1fac (Exp 1)
+=======
+Experimento 2
+
+Master 1
+>>>>>>> c6fc24b (Exp 2)
