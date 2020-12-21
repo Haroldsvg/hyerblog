@@ -4,6 +4,12 @@ Nació en Bogotá y tiene 28 años.
 
 Mañana hablaremos de su vida laboral.
 
+<<<<<<< HEAD
 Master 1
 
 Master 2
+=======
+Experimento 1
+
+Master 1
+>>>>>>> 1eb1fac (Exp 1)
